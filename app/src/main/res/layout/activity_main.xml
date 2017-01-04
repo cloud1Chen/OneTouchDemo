@@ -22,4 +22,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="方式2"/>
+    <Button
+        android:id="@+id/open_everything_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="方式3"/>
 </LinearLayout>
